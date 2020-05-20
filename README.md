@@ -7,6 +7,7 @@
 
 - [xresources](https://tools.suckless.org/dmenu/patches/xresources/): dmenu-xresources-20200302-db6093f.diff
 - [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch/): dmenu-fuzzymatch-4.9.diff
+- [lineheight](https://tools.suckless.org/dmenu/patches/line-height/): dmenu-lineheight-4.9.diff
 
 ## License
 
